@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apple-store/static/css/main.ecd051bd.css",
+    "main.js": "/apple-store/static/js/main.97e55737.js",
+    "index.html": "/apple-store/index.html",
+    "main.ecd051bd.css.map": "/apple-store/static/css/main.ecd051bd.css.map",
+    "main.97e55737.js.map": "/apple-store/static/js/main.97e55737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd051bd.css",
+    "static/js/main.97e55737.js"
+  ]
+}
