@@ -18,7 +18,8 @@
     "react-scripts": "^5.0.1",
     "react-toastify": "^9.1.1",
     "styled-components": "^5.3.6",
-    "web-vitals": "^3.1.1"
+    "web-vitals": "^3.1.1",
+    "@babel/plugin-proposal-private-property-in-object": "version_number"
   },
   "scripts": {
     "start": "react-scripts start",

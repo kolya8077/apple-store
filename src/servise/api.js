@@ -8,6 +8,8 @@ export const fetchTrending = async () => {
     `${BASE_URL}/3/trending/movie/day?api_key=${API_KEY}&language=uk-UA`
   );
 
+  console.log(response)
+
   return response.data.results;
 };
 
